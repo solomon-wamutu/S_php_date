@@ -1,0 +1,8 @@
+<?php
+echo "Welcome to the world of dates </br>";
+$d = date("ds F y, g:i:A");
+echo "Todays date is $d <br>";
+
+$yr = date("Y");
+echo "copyright $yr | All right reserved for documentation <br>";
+?>
